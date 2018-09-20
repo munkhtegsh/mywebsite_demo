@@ -6,6 +6,4 @@ This is a real awesome website.
 Changes made in update-readme branch CHANGES MADE
 
 
-Go always extra miles!
-
-TEST! ABC!
+Replaced by ... rebase!
